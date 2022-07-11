@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>PROJECTS</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/interest-styles.css">
+    </head>
+
+    <body>
+        <div class="header">
+            <h1> PROJECTS</h1>
+        </div>
+
+        <div class="navbar">
+            <a href="index.html">HOME</a>
+            <a href="hobbies.html"> INTERESTS</a>
+            <a href="qualification.html" class="right">QUALIFICATIONS</a>
+        </div>
+		
+		
+  </div>
+		
+		
+	 <div class="content">
+            <h2>MY PROJECTS</h2>
+            <h3>"Tryin to manage a project without project management is like trying to play a football game without a game plan ".</h3>
+            <p>
+                You can say that computers are my first love. My father used to bring his company laptop on Saturdays and I used to play with that laptop, that's where I got my interest in computers. I've been playing with devices since I was 8 or 9 years old.
+            </p>
+            <p>
+                I want to know every single bit about computers and how they operate. Not computers but all the smart devices that we use today.
+            </p>
+        </div>
+    </body>
+</html>

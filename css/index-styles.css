@@ -1,0 +1,92 @@
+
+body {
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+/* css for the header of page */
+
+
+
+
+
+
+
+.header {
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+}
+.centered h4 {
+    font-size: 30px;
+}
+
+/* css for the navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color:navy;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+/* set one link to the right side of bar */
+.navbar a.right {
+    float: right;
+}
+/* change color while hovering the mouse */
+.navbar a:hover {
+    background-color: orange;
+    color: black;
+}
+
+.main img {
+    height:230px;
+    width: 250px;
+    border-radius: 100px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* css for the text area of page */
+.content h2 {
+    text-align: center;
+    color: #B22222;
+}
+.content p {
+    font-size: 17px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+/* css for footer of the page */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background:navy;
+    color:white;
+}
+.footer a {
+    background-color: violet;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 20px;
+}
